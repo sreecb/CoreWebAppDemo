@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktkIhXYViXAbv3bcc0SkfidGeqL0ko38EGnn+/jDdxxVprp3Oy0+h+dtC3usMjkD9HD4X03XriGPLg2WyOzvDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sreedhar\\source\\repos\\AKS\\CoreWebAppDemo\\CoreWebAppDemo\\CoreWebAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sreedhar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
