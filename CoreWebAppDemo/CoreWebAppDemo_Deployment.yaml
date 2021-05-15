@@ -27,6 +27,6 @@ metadata:
 spec:
   type: LoadBalancer
   ports:
-  -port: 5000
+  - port: 5000
   selector:
     app: corewebappdemo
